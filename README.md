@@ -1,2 +1,4 @@
-# word-cloud
- Word cloud for national day messages
+# Word cloud for national day messages
+
+Clone and run in jupyter notebook
+ 
